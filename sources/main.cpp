@@ -1,12 +1,12 @@
 /**
- *  main.cpp - main control program
+ * main.cpp - main control program
  *
- *  written for Northern Middle School Robotics Team 650P "Pirates"
- *  V5 Competition Template
- *  VRC 2018-19 "Turning Point"
+ * written for Northern Middle School Robotics Team 650P "Pirates"
+ * V5 Competition Template
+ * VRC 2018-19 "Turning Point"
  *  
- @TODO: Finish out program
- @TODO:
+ * @TODO: Finish out program
+ * @TODO:
  */
 
 #include "robot-config.h"
