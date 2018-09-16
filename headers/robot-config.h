@@ -16,3 +16,12 @@ vex::motor clawMotor (vex::PORT3, vex::gearSetting::ratio18_1,true);
 
 //arm motor
 vex::motor armMotor (vex::PORT8, vex::gearSetting::ratio18_1,true);
+
+//collector
+????
+ 
+//flywheel (shooter mechanism)
+????
+ 
+//V5 vision sensor
+????
